@@ -1,0 +1,68 @@
+MFile 0 1 480
+MTrk
+0 Tempo 500000
+0 TimeSig 4/4 24 8
+0 KeySig 0 major
+0 Meta TrkEnd
+TrkEnd
+MTrk
+0 On ch=1 n=60 v=100
+240 Off ch=1 n=60 v=64
+240 On ch=1 n=62 v=100
+480 Off ch=1 n=62 v=64
+480 On ch=1 n=64 v=100
+720 Off ch=1 n=64 v=64
+720 On ch=1 n=65 v=100
+960 Off ch=1 n=65 v=64
+960 On ch=1 n=67 v=100
+1200 Off ch=1 n=67 v=64
+1200 On ch=1 n=69 v=100
+1440 Off ch=1 n=69 v=64
+1440 On ch=1 n=71 v=100
+1680 Off ch=1 n=71 v=64
+1680 On ch=1 n=72 v=100
+1920 Off ch=1 n=72 v=64
+1920 On ch=1 n=74 v=100
+2160 Off ch=1 n=74 v=64
+2160 On ch=1 n=76 v=100
+2400 Off ch=1 n=76 v=64
+2400 On ch=1 n=77 v=100
+2640 Off ch=1 n=77 v=64
+2640 On ch=1 n=79 v=100
+2880 Off ch=1 n=79 v=64
+2880 On ch=1 n=81 v=100
+3120 Off ch=1 n=81 v=64
+3120 On ch=1 n=83 v=100
+3360 Off ch=1 n=83 v=64
+3360 On ch=1 n=84 v=100
+3600 Off ch=1 n=84 v=64
+3600 On ch=1 n=83 v=100
+3840 Off ch=1 n=83 v=64
+3840 On ch=1 n=81 v=100
+4080 Off ch=1 n=81 v=64
+4080 On ch=1 n=79 v=100
+4320 Off ch=1 n=79 v=64
+4320 On ch=1 n=77 v=100
+4560 Off ch=1 n=77 v=64
+4560 On ch=1 n=76 v=100
+4800 Off ch=1 n=76 v=64
+4800 On ch=1 n=74 v=100
+5040 Off ch=1 n=74 v=64
+5040 On ch=1 n=72 v=100
+5280 Off ch=1 n=72 v=64
+5280 On ch=1 n=71 v=100
+5520 Off ch=1 n=71 v=64
+5520 On ch=1 n=69 v=100
+5760 Off ch=1 n=69 v=64
+5760 On ch=1 n=67 v=100
+6000 Off ch=1 n=67 v=64
+6000 On ch=1 n=65 v=100
+6240 Off ch=1 n=65 v=64
+6240 On ch=1 n=64 v=100
+6480 Off ch=1 n=64 v=64
+6480 On ch=1 n=62 v=100
+6720 Off ch=1 n=62 v=64
+6720 On ch=1 n=60 v=100
+6960 Off ch=1 n=60 v=64
+6960 Meta TrkEnd
+TrkEnd
